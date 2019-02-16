@@ -12,6 +12,9 @@
                                  'Niveau' => 'Bac +2',
                                  'Université' => 'UCAD',
                                  'Fac' => 'FST : TDSI : math-crypto',
+                                 'Date de naissance' => '27-10-1997',
+                                 'Identifiant Slack ' => 'Ndiagadieng.Slack.com',
+
                                  ); ?>
      <table>
           <tr>
